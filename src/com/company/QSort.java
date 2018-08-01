@@ -1,6 +1,9 @@
 
 package com.company;
-
+/*
+* 这是从前两天C++写的快排，改过来的.
+*
+* */
 public class QSort {
     private int[] array;
 
